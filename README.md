@@ -13,7 +13,9 @@ O foco é consolidar o entendimento prático sobre os componentes **EC2**, **EBS
 
 ## 🧩 Componentes da Arquitetura
 
-![AWS Architecture](images/arquitetura-drawio.png)
+![AWS Architecture](images/arquitetura.jpeg)
+⚠️ Observação: o arquivo `arquitetura-drawio.png` pode não abrir diretamente no GitHub, 
+mas está disponível no repositório e pode ser visualizado localmente após o download.
 
 **Fluxo de funcionamento:**
 
